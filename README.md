@@ -20,4 +20,3 @@ Python, BeautifulSoup, pandas, NumPy, matplotlib, seaborn (and related data/visu
 
 Jupyter Notebook for analysis and visualization.​
 
-You can place this content in your README.md and then add sections for installation, project structure, how to run the notebooks/scripts, and future work as needed.
